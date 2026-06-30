@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4eec60c06bbb8454da3188bdfb022e14, type: 3}
+  m_Name: "\u65A7\u5B50"
+  m_EditorClassIdentifier: 
+  id: axe
+  itemName: "\u65A7\u5B50"
+  icon: {fileID: 21300000, guid: 866c541fc6b86a547a1dae71b6951149, type: 3}
+  description: "\u666E\u901A\u7684\u65A7\u5B50\u3002\u770B\u8D77\u6765\u8FD8\u80FD\u4F7F\u7528\u3002"
+  isEdited: 0
+  isInBag: 0
+  dailyInspected: 0
+  dailyEdited: 0
+  editedName: 
+  editedDescription: 
+  editEffect: 0
+  transformsToId: 
+  onInspect:
+    m_PersistentCalls:
+      m_Calls: []
+  onEdit:
+    m_PersistentCalls:
+      m_Calls: []
